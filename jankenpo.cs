@@ -2,8 +2,7 @@ using System;
 
 public class Jankenpo
 {
-    public static void Main(string[] args)
-    {
+    public static void Main(string[] args) {
         Console.WriteLine ("Jankenpo");
         Console.WriteLine ("########\n");
         Char userChoice = Jankenpo.getUserChoice()[0];
