@@ -15,3 +15,6 @@ Using Mono, after compile:
 mono jankenpo.exe
 `
 
+# Video showing the execution
+
+[https://youtu.be/cWo2L_QH0I8](https://youtu.be/cWo2L_QH0I8)
